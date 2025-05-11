@@ -1,0 +1,6 @@
+fastapi==0.109.2
+uvicorn[standard]==0.27.1
+pyautogen==0.2.13
+python-dotenv==1.0.1
+litellm==1.30.7
+pydantic==2.6.1 
